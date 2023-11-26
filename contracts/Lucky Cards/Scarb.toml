@@ -1,0 +1,11 @@
+[package]
+name = "GameFi"
+version = "0.1.0"
+
+[dependencies]
+openzeppelin = {git = "https://github.com/enitrat/cairo-contracts", branch = "cairo-1"}
+hack_template = {git = "https://github.com/Astraly-Labs/pragma-hack", branch = "master"}
+ownable = { path = "ownable" }
+
+[[target.starknet-contract]]
+allowed-libfuncs-list.name = "all"
