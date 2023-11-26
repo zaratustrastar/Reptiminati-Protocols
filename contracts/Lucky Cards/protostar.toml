@@ -1,0 +1,10 @@
+[project]
+protostar-version = "0.13.0"
+
+[contracts]
+TestHero = ["testHerodotus/src"]
+Ownable = ["ownable/src"]
+Defipooling = ["src"]
+
+[[target.starknet-contract]]
+allowed-libfuncs-list.name = "all"
