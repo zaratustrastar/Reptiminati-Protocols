@@ -37,6 +37,9 @@ Minimum Amount Holders of Reptiminati's Upcoming Token (To Be Announced): Indivi
 Stay tuned for more updates and announcements by following @Reptiminati on Twitter and joining our community on Discord.
 
 Website: https://reptiminati.art/
+
 Documents: https://reptiminati.gitbook.io/reptiminati/
+
 Twitter: https://twitter.com/reptiminati
+
 Discord: https://discord.com/invite/DQQ4dfKbAK
